@@ -58,7 +58,7 @@ sections:
     subtitle: What I do
     features:
       - title: The Common Application Essay
-        subtitle: Telling your story in 650 words or less.
+        subtitle: Tell your story in 650 words or less.
         content: >-
           I will handle content writing for your digital assets, from
           newsletters and emails, to Facebook and Google campaigns, whitepapers,
