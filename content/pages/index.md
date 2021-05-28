@@ -40,7 +40,7 @@ sections:
       - image: /images/violet-whale.jpg
         image_alt: Logo 4
         image_align: center
-      - image: images/logo-5.svg
+      - image: /images/Northeastern-logo.svg_.png
         image_alt: Logo 5
         image_align: center
       - image: images/logo-6.svg
