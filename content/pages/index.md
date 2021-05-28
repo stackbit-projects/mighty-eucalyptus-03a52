@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     title: Hi, I'm Erika. 
     subtitle: >-
-      I help aspiring college students craft eloquent essays .
+      I help aspiring college students craft eloquent essays through interactive editing and feedback sessions.
     actions:
       - label: Contact Me
         url: /contact
