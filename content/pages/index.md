@@ -42,7 +42,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-        image: /images/Simple Floral Image Spring Quotes Instagram Post (3).png
+        image: /images/1.png
         image_alt: Feature 1 illustration
         media_position: right
         media_width: fifty
