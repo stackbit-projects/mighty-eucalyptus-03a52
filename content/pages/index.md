@@ -38,6 +38,7 @@ sections:
       - image: /images/logo.png
         image_alt: Logo 3
         image_align: center
+        subtitle: Honors and Merit Scholarship
       - image: /images/violet-whale.jpg
         image_alt: Logo 4
         image_align: center
