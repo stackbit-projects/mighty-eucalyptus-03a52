@@ -49,7 +49,7 @@ sections:
       - image: /images/41cabe19253ed5b36300ac6b3399d028.png
         image_alt: Logo 7
         image_align: center
-      - image: images/logo-8.svg
+      - image: /images/umass-logo.jpg
         image_alt: Logo 8
         image_align: center
       - title_align: left
