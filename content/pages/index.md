@@ -63,7 +63,7 @@ sections:
         image: /images/Simple Floral Image Spring Quotes Instagram Post (4).png
         image_alt: Feature 2 illustration
         media_position: right
-        media_width: sixty
+        media_width: fifty
       - title: Resume and Cover Letter Writing
         subtitle: Showcasing your skills and experience.
         content: >
