@@ -42,7 +42,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-        image: /images/pleasant-rabbit.png
+        image: /images/clever-neptune.png
         image_alt: Feature 1 illustration
         media_position: right
         media_width: fifty
