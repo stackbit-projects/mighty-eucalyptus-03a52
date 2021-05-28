@@ -32,9 +32,9 @@ sections:
         subtitle: The story of you in 650 words or less.
         content: >
           Meet with me for 60-minute, 1-on-1 sessions where we break down the
-          components of your rough draft. I will help you refine your grammar
+          components of your rough draft(s). I will help you refine your grammar
           and diction and focus your thoughts to create a narrative that is
-          clear, concise, and uniquely your own. 
+          clear, concise, and uniquely your own.
         actions:
           - label: See Writing Samples
             url: /faq
