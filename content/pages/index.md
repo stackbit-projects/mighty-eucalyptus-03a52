@@ -36,7 +36,7 @@ sections:
           and diction and focus your thoughts to create a narrative that is
           clear, concise, and uniquely your own.
         actions:
-          - label: See Writing Samples
+          - label: Read Mine
             url: /faq
             style: primary
             has_icon: true
