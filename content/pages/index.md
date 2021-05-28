@@ -25,7 +25,7 @@ sections:
     has_border: false
   - type: grid_section
     title: My Personal Track Record
-    subtitle: Who I work with
+    subtitle: My credentials
     align: center
     grid_items:
       - image: /images/PrimShield-Word_SmallUse_CardOnTrans.png
