@@ -67,7 +67,7 @@ sections:
         media_position: right
         media_width: sixty
       - title: Resume and Cover Letter Writing
-        subtitle: Showcasing your experience and skills.
+        subtitle: Showcasing your real-life experience.
         content: >-
           I will dive into the ins and outs of your product or service and make
           sure the right information is communicated throughout your
