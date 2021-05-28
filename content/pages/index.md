@@ -18,7 +18,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: none
-    background_image: /images/IMG_4576.jpg
+    background_image: /images/IMG_4640.jpg
     background_image_repeat: repeat
     background_image_size: cover
     background_image_opacity: 15
