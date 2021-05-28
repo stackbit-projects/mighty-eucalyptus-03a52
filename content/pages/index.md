@@ -10,7 +10,7 @@ sections:
       - label: Contact Me
         url: /contact
         style: primary
-    image: /images/IMG_2973.JPG
+    image: /images/marvelous-cedar.JPG
     image_alt: A smiling woman
     media_position: right
     media_width: fourty
