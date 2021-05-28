@@ -28,7 +28,7 @@ sections:
     subtitle: Who I work with
     align: center
     grid_items:
-      - image: /images/usc.png
+      - image: /images/PrimShield-Word_SmallUse_CardOnTrans.png
         image_alt: Logo 1
         image_align: center
       - image: /images/gt-logo-black.png
