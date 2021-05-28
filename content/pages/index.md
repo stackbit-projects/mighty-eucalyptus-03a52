@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     title: Hi, I'm Erika. 
     subtitle: >-
-      I will handle your website design and production, social media accounts and digital advertisements for you, at an affordable price.
+      I help students refine their writing and share their voice .
     actions:
       - label: Contact Me
         url: /contact
