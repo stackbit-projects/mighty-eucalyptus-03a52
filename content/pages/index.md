@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Hi, I'm Erika. 
+    title: Hi, I'm Erika. Appplications can be scary. 
     subtitle: >-
       I help students refine their writing and share their authentic voice.
     actions:
