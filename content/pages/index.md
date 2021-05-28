@@ -45,7 +45,7 @@ sections:
         image: /images/Simple Floral Image Spring Quotes Instagram Post (3).png
         image_alt: Feature 1 illustration
         media_position: right
-        media_width: sixty
+        media_width: fifty
       - title: Online Store Management
         subtitle: 'Product updates, inventory and pricing.'
         content: >-
