@@ -21,7 +21,7 @@ sections:
     background_image: /images/IMG_4576.jpg
     background_image_repeat: repeat
     background_image_size: contain
-    background_image_opacity: 0
+    background_image_opacity: 1
     has_border: false
   - type: features_section
     title: My services
