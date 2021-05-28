@@ -10,7 +10,7 @@ sections:
       - label: Contact Me
         url: /contact
         style: primary
-    image: /images/rainy-moon.JPG
+    image: /images/IMG_2933.JPG
     image_alt: A smiling woman
     media_position: right
     media_width: fourty
