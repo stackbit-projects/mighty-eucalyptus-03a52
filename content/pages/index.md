@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     title: Hi, I'm Erika. 
     subtitle: >-
-      I help aspiring college students find their authentic voice, refine their verbiage, and craft essays that elegantly showcase their unique personality.
+      I help aspiring college students find their authentic voice, refine their verbiage, and craft essays that elegantly showcase their unique traits.
     actions:
       - label: Contact Me
         url: /contact
