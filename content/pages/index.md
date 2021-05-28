@@ -4,7 +4,9 @@ sections:
   - type: hero_section
     title: Hi, I'm Erika. 
     subtitle: >-
-      I work side-by-side with students to refine their writing, share their authentic voice, and create a literary product they are .
+      I help aspiring college 
+      
+      work side-by-side with students to refine their writing, share their authentic voice, and create a literary product they are .
     actions:
       - label: Contact Me
         url: /contact
