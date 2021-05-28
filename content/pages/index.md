@@ -2,9 +2,10 @@
 title: Home
 sections:
   - type: hero_section
-    title: Hi, I'm Erika. 
+    title: 'Hi, I''m Erika.'
     subtitle: >-
-      I help aspiring college students craft top-notch admissions essays through interactive editing and live feedback sessions.
+      I help aspiring college students craft top-notch admissions essays through
+      interactive editing and live feedback sessions.
     actions:
       - label: Contact Me
         url: /contact
@@ -58,7 +59,7 @@ sections:
     subtitle: What I do
     features:
       - title: The Common Application Essay
-        subtitle: The story of **you** in 650 words or less.
+        subtitle: The story of you in 650 words or less.
         content: >-
           I will handle content writing for your digital assets, from
           newsletters and emails, to Facebook and Google campaigns, whitepapers,
@@ -209,26 +210,26 @@ seo:
   title: Stackbit Personal Theme
   description: The preview of the Personal theme
   extra:
-    - name: og:type
+    - name: 'og:type'
       value: website
       keyName: property
-    - name: og:title
+    - name: 'og:title'
       value: Stackbit Personal Theme
       keyName: property
-    - name: og:description
+    - name: 'og:description'
       value: The preview of the Personal theme
       keyName: property
-    - name: og:image
+    - name: 'og:image'
       value: images/personal-preview.png
       keyName: property
       relativeUrl: true
-    - name: twitter:card
+    - name: 'twitter:card'
       value: summary_large_image
-    - name: twitter:title
+    - name: 'twitter:title'
       value: Stackbit Personal Theme
-    - name: twitter:description
+    - name: 'twitter:description'
       value: The preview of the Personal theme
-    - name: twitter:image
+    - name: 'twitter:image'
       value: images/personal-preview.png
       relativeUrl: true
 layout: advanced
