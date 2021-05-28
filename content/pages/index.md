@@ -30,10 +30,11 @@ sections:
     features:
       - title: The Common Application Essay
         subtitle: The story of you in 650 words or less.
-        content: >-
-          I will handle content writing for your digital assets, from
-          newsletters and emails, to Facebook and Google campaigns, whitepapers,
-          case studies and product descriptions. No job is too big or small!
+        content: >
+          Meet with me for 60-minute, 1-on-1 sessions where we break down the
+          components of your rough draft. I will help you refine your grammar
+          and diction and focus your thoughts to create a narrative that is
+          clear, concise, and uniquely your own. 
         actions:
           - label: See Writing Samples
             url: /faq
