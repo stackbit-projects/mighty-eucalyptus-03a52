@@ -67,7 +67,7 @@ sections:
       - title: Resume and Cover Letter Writing
         subtitle: Showcasing your skills and experience.
         content: >
-          *Don't know where to start? *Meet with me for a crash course on
+          *Don't know where to start?* Meet with me for a crash course on
           resumes, LinkedIn profiles, and cover letters. *Just need a fresh pair
           of eyes on your resume?* Join me in a resume revision session where we
           discuss how to best convey the value you bring to the table. *Need
