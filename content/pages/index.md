@@ -23,6 +23,7 @@ sections:
     background_image_size: contain
     background_image_opacity: 15
     has_border: false
+    background_image_position: center center
   - type: features_section
     title: My services
     subtitle: What I do
