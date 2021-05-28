@@ -131,7 +131,7 @@ sections:
         image_has_padding: false
         type: grid_item
     grid_cols: three
-    grid_gap_horiz: medium
+    grid_gap_horiz: large
     grid_gap_vert: medium
   - type: form_section
     content: >-
