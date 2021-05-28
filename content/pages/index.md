@@ -31,6 +31,7 @@ sections:
       - image: /images/PrimShield-Word_SmallUse_CardOnTrans.png
         image_alt: Logo 1
         image_align: center
+        subtitle: Merit Scholarship Finalist
       - image: /images/gt-logo-black.png
         image_alt: Logo 2
         image_align: center
