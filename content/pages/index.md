@@ -90,7 +90,7 @@ sections:
     background_color: none
   - type: grid_section
     title: My Personal Track Record
-    subtitle: My credentials
+    subtitle: More About Me
     align: center
     grid_items:
       - image: /images/PrimShield-Word_SmallUse_CardOnTrans.png
