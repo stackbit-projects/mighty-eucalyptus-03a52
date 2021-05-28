@@ -18,7 +18,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: secondary
-    background_image: /images/melodic-chestnut.jpg
+    background_image: /images/IMG_1552.jpg
     background_image_repeat: repeat
     background_image_size: cover
     background_image_opacity: 40
