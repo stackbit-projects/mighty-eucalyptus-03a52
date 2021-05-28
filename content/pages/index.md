@@ -58,7 +58,7 @@ sections:
     subtitle: What I do
     features:
       - title: The Common Application Essay
-        subtitle: It's all about how you share your story.
+        subtitle: How to .
         content: >-
           I will handle content writing for your digital assets, from
           newsletters and emails, to Facebook and Google campaigns, whitepapers,
