@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     title: Hi, I'm Erika. 
     subtitle: >-
-      I help students refine their writing and share their voice .
+      I help students refine their writing and share their authentic voice.
     actions:
       - label: Contact Me
         url: /contact
