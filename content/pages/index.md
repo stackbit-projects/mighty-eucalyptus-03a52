@@ -23,51 +23,6 @@ sections:
     background_image_size: contain
     background_image_opacity: 8
     has_border: false
-  - type: grid_section
-    title: My Personal Track Record
-    subtitle: My credentials
-    align: center
-    grid_items:
-      - image: /images/PrimShield-Word_SmallUse_CardOnTrans.png
-        image_alt: Logo 1
-        image_align: center
-      - image: /images/gt-logo-black.png
-        image_alt: Logo 2
-        image_align: center
-      - image: /images/logo.png
-        image_alt: Logo 3
-        image_align: center
-      - image: /images/violet-whale.jpg
-        image_alt: Logo 4
-        image_align: center
-      - image: /images/Northeastern-logo.svg_.png
-        image_alt: Logo 5
-        image_align: center
-      - image: /images/Occidental-College-music-logo.png
-        image_alt: Logo 6
-        image_align: center
-      - image: /images/41cabe19253ed5b36300ac6b3399d028.png
-        image_alt: Logo 7
-        image_align: center
-      - image: /images/umass-logo.jpg
-        image_alt: Logo 8
-        image_align: center
-      - title_align: left
-        content: |
-          ![](/\_static/app-assets/images/UAlabama_logo.jpg)
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-        type: grid_item
-    grid_cols: three
-    grid_gap_horiz: medium
-    grid_gap_vert: medium
   - type: features_section
     title: My services
     subtitle: What I do
@@ -176,6 +131,51 @@ sections:
     background_image_repeat: repeat
     background_image_size: contain
     background_image_opacity: 12
+  - type: grid_section
+    title: My Personal Track Record
+    subtitle: My credentials
+    align: center
+    grid_items:
+      - image: /images/PrimShield-Word_SmallUse_CardOnTrans.png
+        image_alt: Logo 1
+        image_align: center
+      - image: /images/gt-logo-black.png
+        image_alt: Logo 2
+        image_align: center
+      - image: /images/logo.png
+        image_alt: Logo 3
+        image_align: center
+      - image: /images/violet-whale.jpg
+        image_alt: Logo 4
+        image_align: center
+      - image: /images/Northeastern-logo.svg_.png
+        image_alt: Logo 5
+        image_align: center
+      - image: /images/Occidental-College-music-logo.png
+        image_alt: Logo 6
+        image_align: center
+      - image: /images/41cabe19253ed5b36300ac6b3399d028.png
+        image_alt: Logo 7
+        image_align: center
+      - image: /images/umass-logo.jpg
+        image_alt: Logo 8
+        image_align: center
+      - title_align: left
+        content: |
+          ![](/\_static/app-assets/images/UAlabama_logo.jpg)
+        content_align: left
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_alt: lorem-ipsum
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
+        type: grid_item
+    grid_cols: three
+    grid_gap_horiz: medium
+    grid_gap_vert: medium
   - type: form_section
     content: >-
       ## Let's talk
