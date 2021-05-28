@@ -68,10 +68,14 @@ sections:
         media_width: sixty
       - title: Resume and Cover Letter Writing
         subtitle: Showcasing your skills and experience.
-        content: >-
-          I will dive into the ins and outs of your product or service and make
-          sure the right information is communicated throughout your
-          documentation, pamphlets, manuals and technical documents.
+        content: >
+          Don't know where to start? Meet with me 1-on-1 for a crash course on
+          resumes, LinkedIn profiles, and cover letters. Just need a fresh pair
+          of eyes on your resume? Join me for 60-90 minute resume revision
+          sessions where we discuss how to best convey the value you bring to
+          the table. Need cover letter feedback? Connect with me for a live
+          editing session where we work on highlighting your fit for the
+          university or company.
         actions:
           - label: See Past Work
             url: /faq
