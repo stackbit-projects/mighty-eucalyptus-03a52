@@ -26,7 +26,7 @@ sections:
     background_image_position: center center
   - type: features_section
     title: My services
-    subtitle: What I do
+    subtitle: What I can do for you
     features:
       - title: The Common Application Essay
         subtitle: The story of you in 650 words or less.
