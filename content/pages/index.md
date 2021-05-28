@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     title: Hi, I'm Erika. 
     subtitle: >-
-      I help aspiring college students craft high-quality essays through interactive editing and feedback sessions.
+      I help aspiring college students craft high-quality admissions essays through interactive editing and feedback sessions.
     actions:
       - label: Contact Me
         url: /contact
