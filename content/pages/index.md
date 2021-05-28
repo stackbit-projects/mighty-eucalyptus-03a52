@@ -46,7 +46,7 @@ sections:
       - image: /images/Occidental-College-music-logo.png
         image_alt: Logo 6
         image_align: center
-      - image: images/logo-7.svg
+      - image: /images/41cabe19253ed5b36300ac6b3399d028.png
         image_alt: Logo 7
         image_align: center
       - image: images/logo-8.svg
