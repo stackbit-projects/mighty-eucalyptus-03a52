@@ -132,7 +132,7 @@ sections:
         type: grid_item
     grid_cols: three
     grid_gap_horiz: large
-    grid_gap_vert: medium
+    grid_gap_vert: large
   - type: form_section
     content: >-
       ## Let's talk
