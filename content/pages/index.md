@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     title: Hi, I'm Erika. 
     subtitle: >-
-      I help aspiring college 
+      I help aspiring college students find their authentic voice and create e
       
       work side-by-side with students to refine their writing, share their authentic voice, and create a literary product they are .
     actions:
