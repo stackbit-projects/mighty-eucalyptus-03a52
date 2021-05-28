@@ -34,7 +34,7 @@ sections:
       - image: /images/gt-logo-black.png
         image_alt: Logo 2
         image_align: center
-      - image: images/logo-3.svg
+      - image: /images/umiami_horizontal_300.jpg
         image_alt: Logo 3
         image_align: center
       - image: images/logo-4.svg
