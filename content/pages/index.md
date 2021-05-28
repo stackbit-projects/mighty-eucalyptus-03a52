@@ -43,7 +43,7 @@ sections:
       - image: /images/Northeastern-logo.svg_.png
         image_alt: Logo 5
         image_align: center
-      - image: '/images/Formal_Seal_of_Occidental_College,_Los_Angeles,_USA.svg.png'
+      - image: /images/Occidental-College-music-logo.png
         image_alt: Logo 6
         image_align: center
       - image: images/logo-7.svg
