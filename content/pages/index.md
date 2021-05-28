@@ -52,9 +52,7 @@ sections:
           Supplemental essay prompts are as unique as the student writing them.
           With so many wacky, complex, and confusing prompts, it can be hard to
           know where to even start. Join me for 30-60 minute brainstorm sessions
-          where we unpack each prompt together and map out an essay approach.
-          Once you've had a hand at the supplements, meet with me again to edit,
-          trim, and get actionable feedback.
+          where we unpack each prompt together and map out an essay approach. 
         actions:
           - label: Learn More
             url: /about
